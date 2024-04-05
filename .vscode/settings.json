@@ -1,0 +1,6 @@
+{
+"[prisma]": {
+    "editor.formatOnSave": true
+},
+"rest-client.showResponseInDifferentTab": true
+}
