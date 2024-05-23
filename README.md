@@ -1,8 +1,8 @@
 # pass.in
 
 Pass.in it's an application to **manage participants of a live event.**
-.
-This tool allows the event organizers to create an event and to open a public page for people to enroll
+
+This tool allows the event organizers to create an event and to open a public page for people to enroll.
 
 The participants can generate an id badge to check in in the event.
 
